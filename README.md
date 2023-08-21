@@ -119,3 +119,10 @@ open up you local host and port
     AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
     ECR_REPOSITORY_NAME = simple-app
+
+# OUTPUT:
+![image](https://github.com/MMuttalib1326/img/blob/main/Screenshot%20(381).png)
+
+![image](https://github.com/MMuttalib1326/img/blob/main/Screenshot%20(384).png)
+
+![image](https://github.com/MMuttalib1326/img/blob/main/Screenshot%20(385).png)
